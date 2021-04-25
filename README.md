@@ -1,5 +1,5 @@
 ### Hi there 👋
-< img src="https://github-readme-stats.vercel.app/api?username=k3vi-07&show_icons=true&icon_color=CE1D2D&hide_title=true&theme=chartreuse-dark" />
+<img src="https://github-readme-stats.vercel.app/api?username=k3vi-07&show_icons=true&icon_color=CE1D2D&hide_title=true&theme=chartreuse-dark" />
 <!--
 **k3vi-07/k3vi-07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
